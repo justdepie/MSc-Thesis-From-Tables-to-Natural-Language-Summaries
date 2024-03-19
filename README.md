@@ -4,7 +4,7 @@ Notebook Guide: \
 -The QTSumm All notebook includes everything I did for QTSumm (preprocessing + modeling). 
 
 Info:\
-The goal is to provide table summaries that provide only the requested information.\
+The goal is to provide table summaries that include only the requested information.\
 The evaluation metrics used are: METEOR, ROUGE and SacreBleu. \
 Regarding ToTTo the models were evaluated on the whole test set as well as the top 5 most populated domains. \
 This is a Capstone Project conducted in partnership with the company Incelligent IKE. \
