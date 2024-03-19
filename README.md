@@ -1,7 +1,7 @@
 Notebook Guide: \
 -The Data Preparation notebook includes all the preprocessing and transformations made to convert the tables to text for the ToTTo dataset. \
 -The Modeling Current Version notebook includes the modeling code for ToTTo. \
--The QTSumm All notebook includes everything I did for QTSUmm (preprocessing + code). 
+-The QTSumm All notebook includes everything I did for QTSUmm (preprocessing + modeling). 
 
 Info:\
 The evaluation metrics used are: METEOR, ROUGE and SacreBleu. \
