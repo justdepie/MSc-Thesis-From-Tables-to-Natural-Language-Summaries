@@ -4,6 +4,7 @@ Notebook Guide: \
 -The QTSumm All notebook includes everything I did for QTSUmm (preprocessing + modeling). 
 
 Info:\
+The goal is to provide table summaries that provide only the requested information.
 The evaluation metrics used are: METEOR, ROUGE and SacreBleu. \
 Regarding ToTTo the models were evaluated on the whole test set as well as the top 5 most populated domains. \
 This is a Capstone Project conducted in partnership with the company Incelligent IKE. \
@@ -11,7 +12,7 @@ For Llama2 7B chat there are no available results as the GPU RAM needs for infer
 
 For more information please check the Thesis Presentation file and the Thesis Report. 
 
-Demo: \
+Demo for ToTTo: \
 ![image](https://github.com/justdepie/MSc-Thesis-From-Tables-to-Natural-Language-Summaries/assets/129097001/fc894dd8-bb8f-4c4e-8809-38aa5598566e)
 
 To verify that the given information is valid, the corresponding Wikipedia Tables are provided:\
