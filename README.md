@@ -1,4 +1,4 @@
-![image](https://github.com/justdepie/MSc-Thesis-From-Tables-to-Natural-Language-Summaries/assets/129097001/2087990a-acc4-49d5-9a5d-007c5c279088)Notebook Guide: \
+Notebook Guide: \
 -The Data Preparation notebook includes all the preprocessing and transformations made to convert the tables to text for the ToTTo dataset. \
 -The Modeling Current Version notebook includes the modeling code for ToTTo. \
 -The QTSumm All notebook includes everything I did for QTSUmm (preprocessing + modeling). 
