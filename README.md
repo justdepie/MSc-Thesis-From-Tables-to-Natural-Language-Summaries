@@ -7,7 +7,7 @@ Info:\
 The goal is to provide table summaries that include only the requested information.\
 The evaluation metrics used are: METEOR, ROUGE and SacreBleu. \
 Regarding ToTTo the models were evaluated on the whole test set as well as the top 5 most populated domains. \
-This is a Capstone Project conducted in partnership with the company Incelligent IKE for the completion of my MSc in Data Science program provided by AUEB. \
+This is a Capstone Project conducted in partnership with the company Incelligent IKE for the completion of my MSc in Data Science. \
 For Llama2 7B chat there are no available results as the GPU RAM needs for inference exceed the available 40GB. 
 
 For more information please check the Thesis Presentation file and the Thesis Report. 
