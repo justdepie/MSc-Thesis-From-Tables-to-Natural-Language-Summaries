@@ -12,7 +12,7 @@ For Llama2 7B chat there are no available results as the GPU RAM needs for infer
 
 For more information please check the Thesis Presentation file and the Thesis Report. 
 
-Demo for ToTTo: \
+Demo for ToTTo (T5-base generrated summaries vs provided reference summaries): \
 ![image](https://github.com/justdepie/MSc-Thesis-From-Tables-to-Natural-Language-Summaries/assets/129097001/fc894dd8-bb8f-4c4e-8809-38aa5598566e)
 
 To verify that the given information is valid, the corresponding Wikipedia Tables are provided:\
