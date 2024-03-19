@@ -11,17 +11,17 @@ For Llama2 7B chat there are no available results as the GPU RAM needs for infer
 
 For more information please check the Thesis Presentation file and the Thesis Report. 
 
-Demo: 
+Demo: \
 ![image](https://github.com/justdepie/MSc-Thesis-From-Tables-to-Natural-Language-Summaries/assets/129097001/fc894dd8-bb8f-4c4e-8809-38aa5598566e)
 
-To verify that the given information is valid, the corresponding Wikipedia Tables are provided:
-1st Table (Snippet): 
+To verify that the given information is valid, the corresponding Wikipedia Tables are provided:\
+1st Table (Snippet):\
 ![image](https://github.com/justdepie/MSc-Thesis-From-Tables-to-Natural-Language-Summaries/assets/129097001/8e48f2b2-496f-4c33-9724-e13f042c9d77)
 
-2nd Table: 
+2nd Table: \
 ![image](https://github.com/justdepie/MSc-Thesis-From-Tables-to-Natural-Language-Summaries/assets/129097001/c9884945-a5aa-43d7-82f7-ee5c384c5fd0)
 
-3rd Table: 
+3rd Table: \
 ![image](https://github.com/justdepie/MSc-Thesis-From-Tables-to-Natural-Language-Summaries/assets/129097001/6e16abe0-bf2b-4fbe-9df1-a01c93bf62c5)
 
 
